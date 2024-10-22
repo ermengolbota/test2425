@@ -1,7 +1,9 @@
 # test2425
 
-Canvi local
-canvi remot
+Hola
+# Assignatures
+ * m01
+ * m02
 
 # exercicis
  * e1
