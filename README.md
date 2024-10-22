@@ -1,7 +1,11 @@
 # test2425
 
-Nova descripció
 
+Hola, soc la nova descripcio
+
+# Assignatures
+ * m01
+ * m02
 
 # exercicis
  * e1
