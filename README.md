@@ -3,7 +3,11 @@
 Canvi local
 canvi remot
 
-#usuaris
+# exercicis
+ * e1
+ * e2
+
+# usuaris
  * a1
  * a2
  
