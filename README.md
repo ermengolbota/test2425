@@ -2,3 +2,8 @@
 
 Canvi local
 canvi remot
+
+#usuaris
+ * a1
+ * a2
+ 
