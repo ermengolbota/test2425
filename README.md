@@ -1,7 +1,7 @@
 # test2425
 
-Canvi local
-canvi remot
+Nova descripció
+
 
 # exercicis
  * e1
